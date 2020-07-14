@@ -6,4 +6,4 @@ I'm currently working at [Unicode Software](https://www.unicodesoftware.com.br/)
 
 ## :e-mail: Contact
 
-- Send me an e-mail: luan1346@gmail.com
+- Send me an email: luan1346@gmail.com
