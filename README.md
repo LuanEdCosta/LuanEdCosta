@@ -1,10 +1,16 @@
-## :page_with_curl: About me
+## :wave: Hello World
 
-Hi, my name is Luan Eduardo da Costa, I'm a web and mobile developer that loves JavaScript and it's ecosystem. I'm always searching for new things to do and learning new concepts and technologies.
+My name is Luan Eduardo da Costa and I'm a front-end developer.
 
 I'm currently working at [Unicode Software](https://www.unicodesoftware.com.br/) creating Android, iOS and Web apps with React and React Native, some of them to integrate with the main product of the company and also new projects.
 
-## :e-mail: Contact
+## :heart: Things I like to do
 
-- Send me an email: luan1346@gmail.com
-- Linkedin: [Click to see my Linkeding Profile](https://www.linkedin.com/in/luan-eduardo-costa-aaab591a7/)
+- :iphone: :computer: Create applications
+- :flower_playing_cards: Create nice interfaces
+- :bulb: Experiment new technologies and tools
+
+## :point_right: :point_left: How to Contact me
+
+- Send me an e-mail: luan1346@gmail.com
+- Linkedin: [Click to see my Linkedin profile](https://www.linkedin.com/in/luan-eduardo-costa-aaab591a7/)
