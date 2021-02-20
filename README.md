@@ -1,5 +1,9 @@
 ## :wave: Hello World
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=LuanEdCosta&color=blueviolet" alt="LuanEdCosta Profile Views" />
+</p>
+
 My name is Luan Eduardo da Costa and I'm a front-end developer.
 
 I'm currently working at [Unicode Software](https://www.unicodesoftware.com.br/) creating Android, iOS and Web apps with React and React Native, some of them to integrate with the main product of the company and also new projects.
