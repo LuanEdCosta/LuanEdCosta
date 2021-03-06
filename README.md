@@ -14,6 +14,11 @@ I'm currently working at [Unicode Software](https://www.unicodesoftware.com.br/)
 - :flower_playing_cards: Create nice interfaces
 - :bulb: Experiment new technologies and tools
 
+## :page_with_curl: My Stats 
+
+<img src="https://github-readme-stats.vercel.app/api?username=LuanEdCosta&show_icons=true&theme=dark&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanEdCosta&layout=compact">
+
 ## :point_right: :point_left: How to Contact me
 
 - Send me an e-mail: luan1346@gmail.com
