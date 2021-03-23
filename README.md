@@ -6,6 +6,8 @@
 
 My name is Luan Eduardo da Costa and I'm a front-end developer.
 
+I am currently working with TypeScript, JavaScript, React, React Native and studying web development in depth :zap:.
+
 ## :heart: Things I like to do
 
 - :iphone: :computer: Create applications
