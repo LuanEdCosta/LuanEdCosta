@@ -18,6 +18,7 @@ I am currently working with TypeScript, JavaScript, React, React Native and stud
 - :iphone: :computer: Create applications
 - :flower_playing_cards: Create nice interfaces
 - :bulb: Experiment new technologies and tools
+- :man: Help people and talk about tech
 
 ## :page_with_curl: My Stats 
 
