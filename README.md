@@ -15,7 +15,7 @@ I am currently working with TypeScript, JavaScript, React, React Native and stud
 
 ## :heart: Things I like to do
 
-- :iphone: :computer: Create applications
+- :iphone: :computer: Create mobile and web apps
 - :flower_playing_cards: Create nice interfaces
 - :bulb: Experiment new technologies and tools
 - :man: Help people and talk about tech
