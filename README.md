@@ -10,8 +10,8 @@ I am currently working with TypeScript, JavaScript, React, React Native and stud
 
 ## :point_right: :point_left: How to Contact me
 
-- Send me an e-mail: luan1346@gmail.com
-- Linkedin: [Click to see my Linkedin profile](https://www.linkedin.com/in/luan-eduardo-costa-aaab591a7/)
+- E-mail: luan1346@gmail.com
+- [Follow me on Linkedin](https://www.linkedin.com/in/luan-eduardo-costa-aaab591a7/)
 
 ## :heart: Things I like to do
 
