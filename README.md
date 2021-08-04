@@ -22,7 +22,5 @@ I am currently working with TypeScript, React, React Native and NodeJs.
 
 ## :page_with_curl: My Stats 
 
-<div style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanEdCosta&show_icons=true&theme=dark&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanEdCosta&layout=compact">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=LuanEdCosta&show_icons=true&theme=dark&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanEdCosta&layout=compact">
