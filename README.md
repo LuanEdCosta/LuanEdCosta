@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=LuanEdCosta&color=blueviolet" alt="LuanEdCosta Profile Views" />
 </p>
 
-My name is Luan Eduardo da Costa and I'm a front-end developer. 
-
-I am currently working with TypeScript, React, React Native and NodeJs.
+I'm a front-end developer and I am currently working with TypeScript, React, React Native and NodeJs.
 
 ## :point_right: :point_left: How to Contact me
 
