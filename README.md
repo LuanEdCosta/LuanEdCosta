@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=LuanEdCosta&color=blueviolet" alt="LuanEdCosta Profile Views" />
 </p>
 
-I'm a front-end developer and I am currently working with TypeScript, React, React Native and NodeJs.
+I'm a front-end developer and I'm currently working with TypeScript, React, React Native and NodeJs.
 
 ## :point_right: :point_left: How to Contact me
 
