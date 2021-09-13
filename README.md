@@ -8,8 +8,8 @@ I'm a front-end developer and I'm currently working with TypeScript, React, Reac
 
 ## :point_right: :point_left: How to contact me
 
-- E-mail: luan1346@gmail.com
-- [Follow me on Linkedin](https://www.linkedin.com/in/luan-eduardo-costa-aaab591a7/)
+- [![Linkedin Badge](https://img.shields.io/badge/-Luan%20Eduardo-0066ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luaneducosta/)](https://www.linkedin.com/in/luaneducosta/)
+- [![Gmail Badge](https://img.shields.io/badge/-luan1346@gmail.com-ff4d4d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luan1346@gmail.com)](mailto:luan1346@gmail.com)
 
 ## :heart: Things I like to do
 
