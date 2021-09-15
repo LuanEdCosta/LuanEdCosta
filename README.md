@@ -13,10 +13,10 @@ I'm a front-end developer and I'm currently working with TypeScript, React, Reac
 
 ## :heart: Things I like to do
 
-- :iphone: :computer: Create mobile apps and websites
-- :star: Create open source projects
-- :brain: Learn technologies and tools
-- :raising_hand: Help people
+- :iphone: :computer: Create mobile apps and websites.
+- :star: Create open source projects.
+- :brain: Learn technologies and tools.
+- :raising_hand: Help people.
 
 ## :page_with_curl: My stats 
 
