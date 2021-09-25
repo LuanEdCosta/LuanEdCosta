@@ -18,6 +18,13 @@ I'm a front-end developer and I'm currently working with TypeScript, React, Reac
 - :brain: Learn technologies and tools.
 - :raising_hand: Help people.
 
+## :rocket: Take a look at some of my published projects
+
+- [NPM Packages](https://www.npmjs.com/~luanedcosta)
+- [Play Store Apps](https://play.google.com/store/apps/developer?id=Luan+Eduardo+da+Costa)
+- [VsCode Extensions](https://marketplace.visualstudio.com/publishers/LuanEduardoCosta)
+- [Product Hunt Products](https://www.producthunt.com/@luan_eduardo/made)
+
 ## :page_with_curl: My stats 
 
 <img src="https://github-readme-stats.vercel.app/api?username=LuanEdCosta&show_icons=true&theme=dark&count_private=true">
