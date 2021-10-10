@@ -27,5 +27,7 @@ I'm a front-end developer and I'm currently working with TypeScript, React, Reac
 
 ## :page_with_curl: My stats 
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuanEdCosta&show_icons=true&theme=dark&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanEdCosta&layout=compact">
+<div style="display:flex;flex-wrap:wrap;">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanEdCosta&layout=compact">
+  <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=LuanEdCosta&show_icons=true&theme=dark&count_private=true">
+</div>
