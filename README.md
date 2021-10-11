@@ -25,7 +25,7 @@ I'm a front-end developer and I'm currently working with TypeScript, React, Reac
 - [VsCode Extensions](https://marketplace.visualstudio.com/publishers/LuanEduardoCosta)
 - [Product Hunt Products](https://www.producthunt.com/@luan_eduardo/made)
 
-## :page_with_curl: My stats 
+## :chart_with_upwards_trend: Statistics
 
 <div style="display:flex;flex-wrap:wrap;">
   <img style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanEdCosta&layout=compact">
