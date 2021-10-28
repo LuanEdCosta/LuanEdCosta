@@ -18,7 +18,7 @@ I'm a front-end developer and I'm currently working with TypeScript, React, Reac
 - :brain: Learn technologies and tools.
 - :raising_hand: Help people.
 
-## :rocket: Take a look at some of my published projects
+## :rocket: My published projects
 
 - [NPM Packages](https://www.npmjs.com/~luanedcosta)
 - [Play Store Apps](https://play.google.com/store/apps/developer?id=Luan+Eduardo+da+Costa)
