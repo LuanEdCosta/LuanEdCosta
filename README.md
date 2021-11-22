@@ -14,7 +14,7 @@ I'm a **front-end developer** and I'm currently working with **TypeScript, React
 ## :heart: Things I like to do
 
 - :iphone: :computer: Create mobile apps and websites.
-- :star: Create open source projects.
+- :star: Create open source projects to solve problems.
 - :brain: Learn technologies and tools.
 - :raising_hand: Help people.
 
