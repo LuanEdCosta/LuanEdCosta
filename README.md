@@ -18,7 +18,7 @@ I'm a **front-end developer** and I'm currently working with **JavaScript/TypeSc
 - :brain: Learn technologies and tools.
 - :raising_hand: Help people.
 
-## :rocket: My Published Projects
+## :rocket: Published Projects
 
 - [NPM Packages](https://www.npmjs.com/~luanedcosta)
 - [Play Store Apps](https://play.google.com/store/apps/developer?id=Luan+Eduardo+da+Costa)
