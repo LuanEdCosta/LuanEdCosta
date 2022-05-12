@@ -13,7 +13,7 @@ I'm a **front-end developer** and I'm currently working with **JavaScript/TypeSc
 
 ## :heart: Things I Like To Do
 
-- :iphone: :computer: Create mobile apps, websites and CLIs.
+- :iphone: :computer: Create mobile apps and websites.
 - :star: Create open source projects to solve problems.
 - :brain: Learn technologies and tools.
 - :raising_hand: Help people.
